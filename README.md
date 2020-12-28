@@ -26,7 +26,7 @@ _______________________________
 ```python
             ~ pip install requests
             ~ pip install plyer
-            ~ pip install pywin32
+            ~ pip install pypiwin32
             ~ BASE URL = "https://newsapi.org/v2/top-headlines?sources=the-times-of-india"
             ~ API KEY = "0864a52124954666bb3e1fd0f7fbb1e6"
 ```             
