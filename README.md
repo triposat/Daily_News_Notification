@@ -24,47 +24,47 @@ _______________________________
 
 # PreRequisite:
 ```python
-            ~ pip install requests
-            ~ pip install plyer
-            ~ pip install pypiwin32
-            ~ BASE URL = "https://newsapi.org/v2/top-headlines?sources=the-times-of-india"
-            ~ API KEY = "0864a52124954666bb3e1fd0f7fbb1e6"
+        ~ pip install requests
+        ~ pip install plyer
+        ~ pip install pypiwin32
+        ~ BASE URL = "https://newsapi.org/v2/top-headlines?sources=the-times-of-india"
+        ~ API KEY = "0864a52124954666bb3e1fd0f7fbb1e6"
 ```             
 
 # Module Needed:
 ```python 
-              import requests
-              import json
-              import time
-              from plyer import notification
-              from win32com.client import Dispatch
+          import requests
+          import json
+          import time
+          from plyer import notification
+          from win32com.client import Dispatch
 ```
 
 # Use of **`pypiwin32`** Module:
 ```python
-           1. Work on Windows Platform
-           2. Converts Text to Speech
+       1. Work on Windows Platform
+       2. Converts Text to Speech
 ```
 # Use of **`requests`** Module:
 ```python
-           1. Use to send all kinds of HTTP requests. 
-           2. The HTTP request returns a Response Object with all the response data (content, encoding, status, etc).
+       1. Use to send all kinds of HTTP requests. 
+       2. The HTTP request returns a Response Object with all the response data (content, encoding, status, etc).
 ```
 # Use of **`plyer`** Module:
 ```python
-           1. Used as a Desktop Notifier. 
-           2. It produces a Notification Message in form of a POP-UP Message on Desktop.
+       1. Used as a Desktop Notifier. 
+       2. It produces a Notification Message in form of a POP-UP Message on Desktop.
 ```
 # Use of **`json`** Module:
 ```python
-           1. Used to work with JSON Data. 
-           2. If you have a JSON string, you can parse it by using the json.loads() method.
+       1. Used to work with JSON Data. 
+       2. If you have a JSON string, you can parse it by using the json.loads() method.
 ```
 
 # Use of **`time`** Module:
 ```python
-           1. This Module provides many ways of representing time in code, such as objects, numbers, and strings. 
-           2. It also provides functionality other than representing time, like waiting during code execution and measuring the efficiency of your code.
+       1. This Module provides many ways of representing time in code, such as objects, numbers, and strings. 
+       2. It also provides functionality other than representing time, like waiting during code execution and measuring the efficiency of your code.
 ```
 _________________________________
 
