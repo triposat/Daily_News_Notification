@@ -41,17 +41,20 @@ _______________________________
 ```
 
 # Use of **`pypiwin32`** Module:
-                      1. Work on Windows Platform
-                      2. Converts Text to Speech
-
+```python
+ 1. Work on Windows Platform
+ 2. Converts Text to Speech
+```
 # Use of **`requests`** Module:
-                      1. Use to send all kinds of HTTP requests. 
-                      2. The HTTP request returns a Response Object with all the response data (content, encoding, status, etc).
-
+```python
+ 1. Use to send all kinds of HTTP requests. 
+ 2. The HTTP request returns a Response Object with all the response data (content, encoding, status, etc).
+```
 # Use of **`plyer`** Module:
-                      1. Used as a Desktop Notifier. 
-                      2. It produces a Notification Message in form of a POP-UP Message on Desktop.
-
+```python
+ 1. Used as a Desktop Notifier. 
+ 2. It produces a Notification Message in form of a POP-UP Message on Desktop.
+```
 # Use of **`json`** Module:
 ```python
            1. Used to work with JSON Data. 
