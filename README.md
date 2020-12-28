@@ -9,7 +9,7 @@
 </p>
 
 _______________________________
-### <h1 align="center"><a href="https://github.com/Iamtripathisatyam/Daily_News_Notification/blob/main/Weather_Updates.py">**`DAILY NEWS READER`**</a> Using `PYTHON`<h1/>
+### <h1 align="center"><a href="https://github.com/Iamtripathisatyam/Daily_News_Notification/blob/main/News_Reader_Notification">**`DAILY NEWS READER`**</a> Using `PYTHON`<h1/>
 _______________________________
 
 <h3 align="center">
