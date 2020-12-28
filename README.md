@@ -61,6 +61,11 @@ _______________________________
            2. If you have a JSON string, you can parse it by using the json.loads() method.
 ```
 
+# Use of **`time`** Module:
+```python
+           1. This Module provides many ways of representing time in code, such as objects, numbers, and strings. 
+           2. It also provides functionality other than representing time, like waiting during code execution and measuring the efficiency of your code.
+```
 _________________________________
 
 <br/>
