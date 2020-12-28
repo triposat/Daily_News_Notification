@@ -40,6 +40,10 @@ _______________________________
               from win32com.client import Dispatch
 ```
 
+# Use of pypiwin32 Module:
+                      1. Work on Windows Platform
+                      2. Converts `Text` to `Speech`
+
 _________________________________
 
 <br/>
