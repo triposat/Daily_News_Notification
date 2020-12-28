@@ -14,7 +14,7 @@ _______________________________
 
 <h3 align="center">
   
-- This is one of my best project which I made in `10 Days`.
+- This is one of my best project which I made in `20 Days`.
 - This Project is really amazing.
 - They will help you a lot in learning something new In python.
 
@@ -26,15 +26,15 @@ _______________________________
 ```python
             ~ pip install requests
             ~ pip install plyer
-            ~ BASE URL = "https://api.openweathermap.org/data/2.5/weather?"
-            ~ API KEY = "88d279a5ff5fcd8e338ab42d94c819c3"
+            ~ BASE URL = "https://newsapi.org/v2/top-headlines?sources=the-times-of-india"
+            ~ API KEY = "0864a52124954666bb3e1fd0f7fbb1e6"
 ```             
 
 # Module Needed:
 ```python 
               import requests
-              import math
-              import datetime
+              import json
+              import time
               from plyer import notification
 ```
 
