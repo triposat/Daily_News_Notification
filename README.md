@@ -54,15 +54,15 @@ _______________________________
        1. Used to work with JSON Data. 
        2. If you have a JSON string, you can parse it by using the json.loads() method.
 ```
-# Use of **`time`** Module:
-```python
-       1. This Module provides many ways of representing time in code, such as objects, numbers, and strings. 
-       2. It also provides functionality other than representing time, like waiting during code execution and measuring the efficiency of your code.
-```
 # Use of **`requests`** Module:
 ```python
        1. Use to send all kinds of HTTP requests. 
        2. The HTTP request returns a Response Object with all the response data (content, encoding, status, etc).
+```
+# Use of **`time`** Module:
+```python
+       1. This Module provides many ways of representing time in code, such as objects, numbers, and strings. 
+       2. It also provides functionality other than representing time, like waiting during code execution and measuring the efficiency of your code.
 ```
 _________________________________
 
