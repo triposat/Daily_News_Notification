@@ -8,15 +8,19 @@
 <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
 </p>
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{Daily_News_Notification}/count.svg" alt=Iamtripathisatyam />
+</p>
+
 _______________________________
 ### <h1 align="center"><a href="https://github.com/Iamtripathisatyam/Daily_News_Notification/blob/main/News_Reader_Notification">**`DAILY NEWS READER`**</a> Using `PYTHON`<h1/>
 _______________________________
 
 <h3 align="center">
   
-- This is one of my best project which I made in `20 Days`.
+- This is one of my best project which I made in `20 Days.`
 - This Project is really amazing.
-- They will help you a lot in learning something new in `PYTHON`.
+- They will help you a lot in learning something new in `PYTHON.`
 
 </h3>
 
@@ -68,7 +72,6 @@ _________________________________
 
 <br/>
 <p align="center">
-<img src="https://badges.pufler.dev/visits/Iamtripathisatyam/Daily_News_Notification?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
 <img src="https://badges.pufler.dev/updated/Iamtripathisatyam/Daily_News_Notification?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
 <img src="https://badges.pufler.dev/created/Iamtripathisatyam/Daily_News_Notification?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
 </p>
