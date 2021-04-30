@@ -19,10 +19,10 @@
 
 _______________________________
 
-### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Daily_News_Notification/blob/main/Covid_19_Cases.py"><img src="https://img.shields.io/badge/-DAILY NEWS NOTIFIER USING PYTHON-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
+### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Daily_News_Notification/blob/main/News_Reader_Notification.py"><img src="https://img.shields.io/badge/-DAILY NEWS NOTIFIER USING PYTHON-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
 _______________________________
 
-# PreRequisite:
+### Prerequisite:
 ```python
         ~ pip install requests
         ~ pip install plyer
@@ -31,7 +31,7 @@ _______________________________
         ~ API KEY = "0864a52124954666bb3e1fd0f7fbb1e6"
 ```             
 
-# Module Needed:
+### Module needed:
 ```python 
           import requests
           import json
@@ -39,31 +39,21 @@ _______________________________
           from plyer import notification
           from win32com.client import Dispatch
 ```
-# Use of **`pypiwin32`** Module:
-```python
-       1. Work on Windows Platform
-       2. Converts Text to Speech
-```
-# Use of **`plyer`** Module:
-```python
-       1. Used as a Desktop Notifier. 
-       2. It produces a Notification Message in form of a POP-UP Message on Desktop.
-```
-# Use of **`json`** Module:
-```python
-       1. Used to work with JSON Data. 
-       2. If you have a JSON string, you can parse it by using the json.loads() method.
-```
-# Use of **`requests`** Module:
-```python
-       1. Use to send all kinds of HTTP requests. 
-       2. The HTTP request returns a Response Object with all the response data (content, encoding, status, etc).
-```
-# Use of **`time`** Module:
-```python
-       1. This Module provides many ways of representing time in code, such as objects, numbers, and strings. 
-       2. It also provides functionality other than representing time, like waiting during code execution and measuring the efficiency of your code.
-```
+### Use of `pypiwin32` module:
+   - Work on Windows Platform
+   - Converts Text to Speech
+### Use of `plyer` module:
+   - Used as a Desktop Notifier. 
+   - It produces a Notification Message in form of a POP-UP Message on Desktop.
+### Use of `json` module:
+   - Used to work with JSON Data. 
+   - If you have a JSON string, you can parse it by using the json.loads() method.
+### Use of `requests` module:
+   - Use to send all kinds of HTTP requests. 
+   - The HTTP request returns a Response Object with all the response data (content, encoding, status, etc).
+### Use of `time` module:
+   - This Module provides many ways of representing time in code, such as objects, numbers, and strings. 
+   - It also provides functionality other than representing time, like waiting during code execution and measuring the efficiency of your code.
 _________________________________
 
 <br/>
