@@ -1,3 +1,8 @@
+![Size](https://img.shields.io/github/repo-size/Iamtripathisatyam/Daily_News_Notification?color=red&label=Repo%20Size%20)</br>
+![License](https://img.shields.io/badge/License-MIT-red.svg)</br>
+[![Prettier](https://img.shields.io/badge/Code%20Style-Prettier-red.svg)](https://github.com/prettier/prettier)</br>
+![](https://img.shields.io/tokei/lines/github/Iamtripathisatyam/Daily_News_Notification?color=red&label=Lines%20of%20Code)</br>
+
 <p align="center">
 <img src="https://icons.iconarchive.com/icons/designcontest/ecommerce-business/128/news-icon.png" />
 </p>
@@ -13,7 +18,8 @@
 </p>
 
 _______________________________
-### <h1 align="center"><a href="https://github.com/Iamtripathisatyam/Daily_News_Notification/blob/main/News_Reader_Notification">**`DAILY NEWS READER`**</a> Using `PYTHON`<h1/>
+
+### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Daily_News_Notification/blob/main/Covid_19_Cases.py"><img src="https://img.shields.io/badge/-DAILY NEWS NOTIFIER USING PYTHON-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
 _______________________________
 
 # PreRequisite:
