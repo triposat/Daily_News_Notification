@@ -17,11 +17,9 @@
   <img src="https://profile-counter.glitch.me/{Daily_News_Notification}/count.svg" alt=Iamtripathisatyam />
 </p>
 
-_______________________________
 
-### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Daily_News_Notification/blob/main/News_Reader_Notification.py"><img src="https://img.shields.io/badge/-DAILY NEWS NOTIFIER USING PYTHON-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
-_______________________________
-
+# <h1 align="center"><a href="https://github.com/Iamtripathisatyam/Daily_News_Notification/blob/main/News_Reader_Notification.py"><img src="https://img.shields.io/badge/-DAILY NEWS NOTIFIER USING PYTHON-black?logo=python&logoColor=yellow&style=flat-square"></a><h1/>
+ 
 ### Prerequisite:
 ```python
         ~ pip install requests
