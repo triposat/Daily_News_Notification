@@ -56,8 +56,8 @@ _________________________________
 
 ### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Daily_News_Notification">Made with <img src="https://cutt.ly/lbllkDi" width="20px"> in India</a><h3/>
 
-<br/>
 <p align="center">
 <img src="https://badges.pufler.dev/updated/Iamtripathisatyam/Daily_News_Notification?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
 <img src="https://badges.pufler.dev/created/Iamtripathisatyam/Daily_News_Notification?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
 </p>
+
