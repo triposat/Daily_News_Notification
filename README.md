@@ -61,3 +61,5 @@ _________________________________
 <img src="https://badges.pufler.dev/created/Iamtripathisatyam/Daily_News_Notification?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
 </p>
 
+<p align="center">Copyright &copy; 2021 Satyam Tripathi</p>
+
