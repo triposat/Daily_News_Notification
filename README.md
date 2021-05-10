@@ -18,7 +18,7 @@
 </p>
 
 
-# <h1 align="center"><a href="https://github.com/Iamtripathisatyam/Daily_News_Notification/blob/main/News_Reader_Notification.py"><img src="https://img.shields.io/badge/-DAILY NEWS NOTIFIER USING PYTHON-black?logo=python&logoColor=yellow&style=flat-square"></a><h1/>
+# <h1 align="center"><a href="https://github.com/Iamtripathisatyam/Daily_News_Notification/blob/main/News_Reader_Notification.py"><img src="https://img.shields.io/badge/-DAILY NEWS NOTIFIER-black?logo=python&logoColor=yellow&style=flat-square"></a><h1/>
  
 ### Prerequisite:
 ```python
