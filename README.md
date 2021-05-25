@@ -12,7 +12,6 @@
 </p>
 
 <h1 align="center"><a href="https://github.com/Iamtripathisatyam/Daily_News_Notification/blob/main/Daily_News_Notifier.ipynb"><img src="https://img.shields.io/badge/-DAILY NEWS NOTIFIER-black?logo=python&logoColor=yellow&style=flat-square"></a></h1>
- 
 ___________________________________
 
 <p>&copy; 2021 Satyam Tripathi</p>
